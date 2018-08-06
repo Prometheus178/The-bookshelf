@@ -1,0 +1,11 @@
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/objects/Result.java
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/basicactions/ReadBookServlet.java
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/basicactions/DeleteBookServlet.java
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/daos/DatastoreDao.java
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/basicactions/UpdateBookServlet.java
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/basicactions/CreateBookServlet.java
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/objects/Book.java
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/util/DatastoreSessionFilter.java
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/basicactions/ListBookServlet.java
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/daos/BookDao.java
+/home/sirius/Документы/getting-started-java/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/daos/CloudSqlDao.java
